@@ -1,1 +1,3 @@
-# R-Project
+# Project - Problem statement
+
+According to the recent data from Juniper Research, loss from mobile payment fraud is expected to climb up to $48 Billion by 2023, more than twofold the $22 Billion losses showed up in 2018. It is an issue that has wide reaching consequences in both the finance industry and daily life, as fraud can diminish trust in industry, de-stabilize economies and influence people's cost of living. To predict the fraudulent transaction with the knowledge of past transactions, the classification model that is fast, steady and suitable to dataset is built to detect more than 98% of the unauthorized transactions while minimizing the fallacious fraud classifications.
